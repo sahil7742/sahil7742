@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking for work 
-- 📫 How to reach me on linkedin <button><Link href="https://www.linkedin.com/in/sahil-shrivastava-584b44290/"></Link></button>
+- 📫 How to reach me on linkedin ("https://www.linkedin.com/in/sahil-shrivastava-584b44290/");
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: engineer 
 
