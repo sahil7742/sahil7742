@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahil7742
+- 👋 Hi, I’m @sahil shrivastava
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking for work 
